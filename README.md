@@ -3,8 +3,8 @@
 https://github.com/xaluis/xaluis
 
 ### About me
-I am learning Full Stack development for web application.
+
 ![code is cool](codeiscool.JPG)
+*I* am learning Full Stack development for web application.
 
-
-Leave a message to me? --> https://github.com/xaluis/xaluis/issues
+> Leave a message to me? --> https://github.com/xaluis/xaluis/issues
